@@ -11,7 +11,7 @@ Hardware Components
 - LEDs (6): Each LED represents a musical note (C, D, E, F, G, A) and lights up as the note is played.
 - Resistors (150kΩ)
 - Jumper Wires
-- 
+
 Software Details
 
 The code is structured as follows:
